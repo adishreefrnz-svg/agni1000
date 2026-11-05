@@ -1,0 +1,5 @@
+﻿opencv-python>=4.10,<5
+ultralytics>=8.3,<9
+pytest>=8.0,<9
+pyserial>=3.5,<4
+mpu6050-raspberrypi
